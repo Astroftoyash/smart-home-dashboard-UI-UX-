@@ -1,27 +1,23 @@
-# smart-home-dashboard-UI-UX-
-This design showcases a Smart Home Dashboard, providing users with a central hub to control and monitor smart home devices.  It includes real-time analytics, device status, automation controls, and a modern UI for seamless interaction.
-# UI/UX Designs - Healthcare & Smart Home Dashboard
+# 🏡 Smart Home Dashboard - UI/UX Design
 
-This repository contains Figma UI/UX designs for two projects:
+This repository contains the **UI/UX design** for a **Smart Home Dashboard**, built in Figma. It provides a central hub for managing smart home devices with a modern and intuitive interface.
 
-## 📌 Project 1: Healthcare Appointment System  
-**File:** `Healthcare Appointment System.fig`  
-- A user-friendly healthcare appointment booking system.  
-- Features intuitive UI, doctor profiles, appointment scheduling, and tracking.  
-- Designed to improve patient experience and streamline healthcare services.
+## 📌 Features
+- **Real-time monitoring** of connected smart devices  
+- **Automation controls** for lights, AC, security, etc.  
+- **Interactive dashboard** with analytics and device status  
+- **Mobile & desktop-friendly UI**  
+- **Dark & light mode support**  
 
-## 📌 Project 2: Smart Home Dashboard  
-**File:** `Smart Home Dashboard.fig`  
-- A visually appealing dashboard for managing smart home devices.  
-- Includes real-time monitoring, automation controls, and an interactive interface.  
-- Designed to enhance user convenience and efficiency in home automation.
 
-## 🔗 How to Open Figma Files  
-1. Download the `.fig` files from this repository.  
+## 🔗 How to Use  
+1. Download the `.fig` file from this repository.  
 2. Open [Figma](https://figma.com/) and go to **File > Import**.  
-3. Select the `.fig` file and start exploring the design.  
+3. Select the `Smart Home Dashboard.fig` file.  
+4. Start customizing and using it!  
 
-## 📥 Download & Use  
-- Clone this repository:  
+## 📥 Clone the Repository  
+```bash
+git clone https://github.com/Astroftoyash/smart-home-dashboard-UI-UX-.git
   ```bash
   
