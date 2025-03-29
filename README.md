@@ -19,5 +19,5 @@ This repository contains the **UI/UX design** for a **Smart Home Dashboard**, bu
 ## 📥 Clone the Repository  
 ```bash
 git clone https://github.com/Astroftoyash/smart-home-dashboard-UI-UX-.git
-  ```bash
+
   
